@@ -1,3 +1,3 @@
 # Practise
 We are practicing merge conflicts
-Step 1: Cloning the project
+Step 1: Cloning the project and building
